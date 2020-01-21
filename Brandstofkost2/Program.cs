@@ -2,6 +2,9 @@
 /*
  * OPGAVE
  * ======
+ * we willen brandstofkost berekenen daarvoor hebben we de soort brandstof nodig(B7/E5/E10)
+ * Bij elke tankbeurt geeft de gebruiker zijn km stand en het aantal liter
+ * Het aantal liter per km, net als de prijs.
  * Diesel of benzine        diesel = 1.5900
  *                          super 95 = 1.5140
  *                          super 97 = 1.6020
